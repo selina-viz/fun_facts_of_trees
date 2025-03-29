@@ -53,9 +53,9 @@ Screenshots or sample visuals can also be added here.
 
 ```bash
 vancouver-trees-and-realestate/
-├── eda_notebook.ipynb       # EDA notebook (optional)
+├── eda_notebook.ipynb       # EDA notebook 
 ├── eda_report.html          # Final report (HTML)
-├── data/                    # Sample dataset (if shareable)
-├── images/                  # Visuals for README (optional)
+├── data/                    # Sample dataset 
+├── images/                  # Visuals for README 
 ├── README.md                # Project summary
-└── requirements.txt         # Python dependencies (optional)
+└── requirements.txt         # Python dependencies 
